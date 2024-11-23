@@ -1,0 +1,25 @@
+h1 {
+    padding: 10px;
+    margin: 25px;
+}
+
+#download {
+    padding: 10px;
+    margin: 25px;
+    background-color: rgb(112, 41, 41);
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: auto;
+    transition: ease 0.2s;
+}
+
+#download:hover {
+    background-color: rgb(64, 17, 17);
+    transition: ease 0.2s;
+}
+
+#dowload:visited {
+    background-color: rgb(0, 0, 160);
+    transition: ease 0.2s;
+}
